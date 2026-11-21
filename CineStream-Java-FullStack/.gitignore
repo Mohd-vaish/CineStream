@@ -1,0 +1,19 @@
+# Dependencies
+frontend/node_modules/
+
+# Build files
+backend/target/
+frontend/dist/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
